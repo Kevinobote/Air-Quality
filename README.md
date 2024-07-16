@@ -63,8 +63,8 @@ pip install pandas jupyter
 1. Clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/your-username/aqi-analysis-project.git
-cd aqi-analysis-project
+[git clone https://github.com/Kevinobote/Air-Quality.git]
+cd Air-Quality
 ```
 
 2. Ensure the CSV files (`epa_ca_tx_pa.csv` and `epa_others.csv`) are in the project directory.
