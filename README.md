@@ -1,7 +1,3 @@
-Certainly! Here’s an updated version of the README with the notebook name replaced:
-
----
-
 # Air Quality Index (AQI) Analysis Project
 
 ## Introduction
@@ -101,4 +97,3 @@ This project provides a comprehensive analysis of AQI data using pandas. By foll
 
 - [AirNow.gov](https://www.airnow.gov/aqi/aqi-basics/) for providing information on AQI basics.
 - The U.S. Environmental Protection Agency (EPA) for the AQI data.
-
